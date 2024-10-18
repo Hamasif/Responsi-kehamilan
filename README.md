@@ -1,16 +1,19 @@
 # responsi1
+Nama  : Hamas Izzuddin   
+Nim    : H1D022097
 
-A new Flutter project.
+# SS
+## Login
+![image](https://github.com/user-attachments/assets/bee2916a-a389-4d56-9ade-386ac22e36c2)
 
-## Getting Started
+## Registrasi
+![image](https://github.com/user-attachments/assets/d1d26311-35b3-4030-93f6-75dbfab48c0e)
 
-This project is a starting point for a Flutter application.
+## List Catatan Kehamilan
+![image](https://github.com/user-attachments/assets/54d7fc82-397e-4fa5-ae4a-fa476a96c688)
 
-A few resources to get you started if this is your first Flutter project:
+## Add Catatan Kehamilan
+![image](https://github.com/user-attachments/assets/021f9bac-cd4e-4efd-a8bc-c3470ac8886d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Delete & Edit
+![image](https://github.com/user-attachments/assets/54d7fc82-397e-4fa5-ae4a-fa476a96c688)
